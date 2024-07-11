@@ -40,7 +40,7 @@ This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot i
 
 <h1> Demonstration Video </h1>
 
-A demonstration video showcasing the obstacle mapping functionality can be found here.
+A demonstration video showcasing the obstacle mapping functionality can be found in the repo (demo).
 
 
 
