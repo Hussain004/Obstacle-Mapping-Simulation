@@ -2,6 +2,7 @@
 
 This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot in the Gazebo simulation environment.
 
+![Shwocase](img1.png "turtlebot3-burger mapping an obstacle")
 
 
 <h1> Key Features: </h1>
