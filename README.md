@@ -1,10 +1,10 @@
-﻿<h1> **Obstacle Mapping in Gazebo using ROS1** </h1>
+﻿<h1> Obstacle Mapping in Gazebo using ROS1 </h1>
 
 This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot in the Gazebo simulation environment.
 
 
 
-<h1> **Key Features:** </h1>
+<h1> Key Features: </h1>
 
 - The robot moves forward until it detects an obstacle within a user-specified minimum distance.
 - The robot then rotates to align its orientation with the direction of the nearest obstacle.
@@ -13,7 +13,7 @@ This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot i
 
 
 
-<h1> **Prerequisites** </h1>
+<h1> Prerequisites </h1>
 
 - ROS1 (Melodic or Noetic)
 - Turtlebot3 packages
@@ -22,7 +22,7 @@ This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot i
 
 
 
-<h1> **Usage** </h1>
+<h1> Usage </h1>
 
 1. Install the required ROS packages and Matplotlib library.
 2. Place the provided Python script in your ROS workspace's src directory.
@@ -38,13 +38,13 @@ This ROS1 Python script demonstrates obstacle mapping using a Turtlebot3 robot i
 
 
 
-<h1> **Demonstration Video** </h1>
+<h1> Demonstration Video </h1>
 
 A demonstration video showcasing the obstacle mapping functionality can be found here.
 
 
 
-<h1> **Code Explanation** </h1>
+<h1> Code Explanation </h1>
 
 1. The script initializes a ROS node and subscribes to the /odom and /scan topics to obtain the robot's position and sensor data, respectively.
 2. The move\_minimum\_distance() function moves the robot forward until it detects an obstacle within the specified minimum distance.
@@ -55,7 +55,7 @@ A demonstration video showcasing the obstacle mapping functionality can be found
 
 
 
-<h1> **Acknowledgments** </h1>
+<h1> Acknowledgments </h1>
 
 This project was developed as part of a ROS learning exercise. The Turtlebot3 package and Gazebo simulation environment were used to create the demo.
 
