@@ -45,6 +45,12 @@ A demonstration video showcasing the obstacle mapping functionality can be found
 
 
 
+https://github.com/user-attachments/assets/ba29af62-06e4-4e86-8cce-553fcbb14031
+
+
+
+
+
 <h1> Code Explanation </h1>
 
 1. The script initializes a ROS node and subscribes to the /odom and /scan topics to obtain the robot's position and sensor data, respectively.
